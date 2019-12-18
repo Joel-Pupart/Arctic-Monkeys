@@ -3,14 +3,47 @@ body, html {
     margin: 0;
     margin-bottom: 0;
   }
+
+* {
+    border: 1px solid red;
+}
   
+html {
+    background-image: url("img/Veebilehe\ taust.png");
+    background-repeat: repeat-y;
+    background-size: cover; 
+}
+
 body {
-    
-    background-image: url("img/bg.png");
-    height: 100%;
-    background-position: center top;
-    background-repeat: no-repeat;
+    background-image: url("img/esilehtkl.png");
     background-size: cover;
-    overflow-y: scroll;
-    height: 5246px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    width: 100px;
+}
+
+.navigation {
+    display:flex;
+}
+
+.about {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+
+.members {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.album {
+    display:flex;
+    flex-wrap:wrap;
 }
