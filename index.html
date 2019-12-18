@@ -7,7 +7,7 @@
     <title>Arctic Monkeys</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body id="top">
     <div class="home">
         <nav class="flex-center">
             <div class="item">
@@ -194,5 +194,19 @@
             </div>
         </div>
     </div>
+    <a href="#top">
+        <button id="myBtn">Top</button>
+    </a>
+    <script>
+        var mybutton = document.getElementById("myBtn");
+        window.onscroll = function() {scrollFunction()};
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+    </script>
 </body>
 </html>
