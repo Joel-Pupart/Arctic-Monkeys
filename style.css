@@ -25,9 +25,9 @@ body {
 }
 
 h1 {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 300;
+    font-weight: bold;
     font-size: 48px;
     line-height: 56px;
     color: rgb(255, 252, 0);
@@ -38,9 +38,9 @@ h1 {
 }
 
 h2 {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 300;
+    font-weight: bold;
     font-size: 36px;
     line-height: 42px;
     color: rgb(255, 252, 0);
@@ -54,7 +54,7 @@ h2 {
     font-size: 20px;
     line-height: 42px;
     padding: 20px;
-    padding-top: 180px;
+    padding-top: 210px;
 }
 
 a {
@@ -63,7 +63,7 @@ a {
 }
 
 p {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -74,7 +74,7 @@ p {
 }
 
 .about {
-    margin-top: 550px;
+    margin-top: 650px;
 }
 
 .albums {
@@ -104,6 +104,10 @@ img {
 
 .albumpic{
     margin: 30px;
+}
+
+.info {
+    margin: 20px;
 }
 
 @media only screen and (max-width: 768px) {
