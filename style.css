@@ -9,13 +9,13 @@ body, html {
 }
   
 html {
-    background-image: url("img/Veebilehe\ taust.png");
+    background-image: url("img/bg2.png");
     background-repeat: repeat-y;
     background-size: cover;
 }
 
 body {
-    background-image: url("img/esilehtkl.png");
+    background-image: url("img/bg.png");
     background-size: cover;
 }
 
@@ -51,7 +51,7 @@ h2 {
     line-height: 42px;
     color: #E5E5E5;
     padding: 20px;
-    padding-top: 160px;
+    padding-top: 180px;
 }
 
 p {
