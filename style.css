@@ -65,7 +65,11 @@ p {
 }
 
 .about {
-    padding-top: 600px;
+    margin-top: 600px;
+}
+
+.album {
+    margin-bottom: 100px;
 }
 
 .flex-center {
