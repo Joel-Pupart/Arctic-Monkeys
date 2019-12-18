@@ -87,6 +87,10 @@ p {
     flex-wrap: wrap;
 }
 
+ul {
+    color: yellow;
+}
+
 .album {
     display:flex;
     justify-content: center;
