@@ -107,6 +107,7 @@ img {
 }
 
 .albumpic{
+    box-shadow: 5px 5px 3px #474747;
     margin: 30px;
 }
 
