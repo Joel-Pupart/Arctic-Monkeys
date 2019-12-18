@@ -26,7 +26,7 @@ img {
 
 h1 {
     font-family: Roboto;
-    font-style: normal;
+    font-style: bold;
     font-weight: 300;
     font-size: 48px;
     line-height: 56px;
@@ -38,8 +38,8 @@ h1 {
 }
 
 h2 {
-    font-family: Roboto;
-    font-style: normal;
+    font-family: 'Roboto';
+    font-style: bold;
     font-weight: 300;
     font-size: 36px;
     line-height: 42px;
