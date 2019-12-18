@@ -32,6 +32,7 @@ h1 {
     line-height: 56px;
     color: #E5E5E5;
     padding-left: 125px;
+    margin: 40px;
 }
 
 h2 {
@@ -62,17 +63,25 @@ p {
     line-height: 21px;
     color: #FFFFFF;
     width: 500px;
+    line-height: 1.5;
 }
 
 .about {
-    margin-top: 600px;
+    margin-top: 500px;
 }
 
 .albums {
-    margin-bottom: 100px;
+    margin-bottom: 300px;
 }
 
 .flex-center {
     display:flex;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+.album {
+    display:flex;
+    justify-content: center;
+    align-content: center;
 }
