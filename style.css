@@ -69,7 +69,7 @@ p {
     font-size: 18px;
     line-height: 21px;
     color: #FFFFFF;
-    width: 500px;
+    width: 400px;
     line-height: 1.5;
 }
 
@@ -78,13 +78,17 @@ p {
 }
 
 .albums {
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 
 .flex-center {
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+ul {
+    color: yellow;
 }
 
 .album {
@@ -110,8 +114,49 @@ img {
     margin: 20px;
 }
 
+.albumtext {
+    display:flex; 
+    align-items:center;
+}
+
 @media only screen and (max-width: 768px) {
     p {
         width: 250px;
     }
+
+    h1 {
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .albumtext {
+        text-align: center;
+    }
+
+    .about {
+        margin-top: 500px;
+    }
+
+    .item {
+        font-size: 18px;
+        padding: 10px;
+        padding-top: 120px;
+    }
+
+    .albums {
+        margin-bottom: 50px;
+    }
+
+    iframe {
+        width: 320px;
+        height: 248px;
+    }
+
   }
