@@ -1,23 +1,18 @@
 # Arctic-Monkeys
 Projekt 2, bänd/artist
 
-Figma link:
+Figma link: https://www.figma.com/file/NUNI8VOjGI74AUQ3PxXOnv/Untitled?node-id=1%3A2
 
-https://www.figma.com/file/NUNI8VOjGI74AUQ3PxXOnv/Untitled?node-id=1%3A2
+Zone link: https://arcticmonkeys.tak18stepanov.itmajakas.ee/
 
-Zone link:
+# Liikmed:
 
-https://arcticmonkeys.tak18stepanov.itmajakas.ee/
+* Joel Pupart, TA-19;
 
+* Steven Stepanov, TAK-18;
 
-Liikmed:
+* Kenneth Lember, TAK-...;
 
-Joel Pupart, TA-19;
+* , TAK-...;
 
-Steven Stepanov, TAK-18;
-
-Kenneth Lember, TAK-...;
-
-, TAK-...;
-
-, TAK-...;
+* , TAK-...;
