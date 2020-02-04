@@ -8,8 +8,8 @@ https://arcticmonkeys.tak18stepanov.itmajakas.ee/
 
 
 Liikmed:
-Joel Pupart, TA-19
-Steven Stepanov, TAK-...
-, TAK-...
-, TAK-...
-, TAK-... 
+Joel Pupart, TA-19;
+Steven Stepanov, TAK-18;
+, TAK-...;
+, TAK-...;
+, TAK-...;
